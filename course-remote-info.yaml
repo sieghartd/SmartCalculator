@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/203965/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sun, 17 Apr 2022 17:31:32 UTC
+update_date: "Sun, 17 Apr 2022 17:31:32 UTC"
 stages:
 - id: 220
   step: 5316
@@ -66,7 +66,7 @@ topics:
   - title: The for-loop
     theory_id: 3505
   1:
-  - title: Write, compile, and run
+  - title: "Write, compile, and run"
     theory_id: 3739
   - title: Units of information
     theory_id: 6865
@@ -169,7 +169,7 @@ topics:
   - title: Comparable
     theory_id: 14456
   2:
-  - title: JVM, JRE, and JDK
+  - title: "JVM, JRE, and JDK"
     theory_id: 3499
   - title: Introduction to operating systems
     theory_id: 9704
@@ -192,7 +192,7 @@ topics:
     theory_id: 7580
   - title: Regexps in Java
     theory_id: 3670
-  - title: Sets, ranges, alternations
+  - title: "Sets, ranges, alternations"
     theory_id: 3674
   - title: Quantifiers
     theory_id: 3687
@@ -226,7 +226,7 @@ topics:
   5:
   - title: The Set interface
     theory_id: 3575
-  - title: 'Hashing: overview'
+  - title: "Hashing: overview"
     theory_id: 9831
   - title: Hash function
     theory_id: 10878
